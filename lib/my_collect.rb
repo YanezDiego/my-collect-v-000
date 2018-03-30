@@ -6,7 +6,7 @@ def my_collect (array)
   first_name = []
   capitalized = []
   while i < array.legth
-    binding.pry
+    #binding.pry
 
 
   end
