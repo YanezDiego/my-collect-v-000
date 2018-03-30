@@ -3,8 +3,8 @@ require 'pry'
 
 def my_collect (array)
   i = 0
-  
-  collection = []
+
+  empty_array = []
 
   while i < array.legth
     #binding.pry
